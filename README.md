@@ -26,7 +26,7 @@ The bot sends buy orders when fast EMA cross up slow EMA.
 
 The bot sends sell orders at when fast EMA cross down slow EMA.
 
-# [RU] SNIPERBOT
+# [RU] CROSSBOT
 
 ## Установка:
 
